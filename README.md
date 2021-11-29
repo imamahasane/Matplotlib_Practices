@@ -1,1 +1,1 @@
-# Matplotlib_Practices
+# Matplotlib Practices
